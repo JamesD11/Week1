@@ -1,0 +1,49 @@
+body{
+	font-family: 'Indie Flower', cursive;
+	background-color: #efeee7;
+	font-family: "Georgia",Times New Roman,Times,serif;
+	font-color:#333333;
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+header{
+	background-color: #d21034;
+}
+
+h1{
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: #333333;
+	font-color: ;
+	font-size: 30px;
+	line-height: 45px;
+
+
+}
+h2{
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	line-height: 36px ;
+}
+
+.container{
+	width: 1024px;
+	/*Is there a height for the container?*/
+	margin: 0 auto;
+}
+#main-bio{
+	float: left;
+	width: 70%;
+}
+
+#contact-info{
+	float: left;
+	width: 30%;
+}
+
+#bio-image{
+	float: left;
+	width: 200px;
+}
